@@ -1,0 +1,9 @@
+.box{
+    width: 35vw;
+    text-align: center;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding:15px;
+}
+
